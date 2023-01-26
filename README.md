@@ -1,18 +1,4 @@
 # Directory
 
-.
-└── eu-west-1
-    ├── network
-    ├── app
-    │    eks
-    ├── data
-    │   ├── rds		
-    │   │   ├── parameter-group
-    │   │   ├── subnet-group
-    │   │   └── rds-postgres
-    │   └── s3
-    └── network
- 	├── acm
-        ├── alb
-        ├── route53
-        └── vpc
+![image](https://user-images.githubusercontent.com/1707427/214921840-32590713-89f8-47f8-94bf-198fa56775a3.png)
+
