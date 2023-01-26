@@ -1,0 +1,17 @@
+# Ignore all local state
+.terraform
+.terraform.lock.hcl
+
+# Ignore all plan file
+plan.out
+*.plan
+
+# Ignore some internal terraform file
+*.backup
+plugins/*
+terragrunt.hcl
+
+# Ignore all IDE Extension
+.DS_Store
+.vscode
+
